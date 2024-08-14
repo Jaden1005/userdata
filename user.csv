@@ -1,0 +1,13 @@
+user,song,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%
+Liam Carter,56,31,57,17,1,31,7
+Sophia Martinez,84,27,49,16,0,32,1
+Noah Johnson,55, 87, 29, 64, 17, 93, 7
+Olivia Brown,72, 45, 86, 12, 33, 98, 21
+Ethan Smith,23, 64, 75, 46, 91, 28, 56
+Emma Davis,81, 10, 56, 47, 88, 67, 32
+Lucas Taylor,39, 94, 22, 70, 58, 85, 41
+Ava Wilson,66, 49, 15, 92, 34, 77, 64
+Mason Anderson,54, 84, 31, 19, 62, 99, 18
+Isabella Moore,27, 73, 41, 88, 59, 46, 30
+Logan Lee,48, 90, 32, 77, 21, 63, 40
+Mia Harris,69, 26, 95, 53, 30, 80, 11
